@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://obeugoraef.yugetech.com/sitemap.xml
